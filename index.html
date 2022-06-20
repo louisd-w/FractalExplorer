@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<body onload = "setup()">
+
+<h1>my mandlebrot generator</h1>
+
+<p>the higher these values are, the longer the generation process will take - if it looks like its not working, its still probably fine. for quicker results, keep the depth below 500 and the size below 1000 :)</p>
+
+<p id = "value">size: </p>
+<input type='range' min='200' max='2000' value='200' id='slider' class= 'slider'></input>
+<br>
+<br>
+
+<p id = "value2">depth: </p>
+<input type='range' min='10' max='3000' value='100' id='slider2' class= 'slider'></input>
+<br>
+<br>
+<br>
+
+<button onclick="start()">Go</button>
+<br>
+<br>
+<p id = "info">press the button above to start generating </p>
+<br>
+<br>
+
+
+
+<canvas id="myCanvas" width="300" height="200" style="border:1px solid #d3d3d3;"></canvas>
+
+<script src = "script.js"></script>
+
+</body>
+</html>
+
