@@ -1,13 +1,9 @@
 To do:
 
-- contact developers of FractalExplorer
+- contact developers of FractalExplorer?
 
 - [completed] meeting with Elysia Barker @ 10:30am Tuesday 28/6/22
 
-- add GUI to decomposition diagram
-
 - finish Initiation Document
-
-- Complete High Level Plan and Gantt Chart
 
 - email details to stakeholders
