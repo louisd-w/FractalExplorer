@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T13:36:43.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WkoN-TYQjnzeF0NBEQRW" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-28T20:26:41.954Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ruw42faMrwOPH1Fs50yO" version="20.0.3" type="github">
   <diagram id="lEZ2qUskj46iXv0K6vZH" name="Page-1">
-    <mxGraphModel dx="1673" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="583" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,8 +94,8 @@
         <mxCell id="grYxfkFOOMS37sdBGafB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="grYxfkFOOMS37sdBGafB-47" target="grYxfkFOOMS37sdBGafB-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="grYxfkFOOMS37sdBGafB-47" value="User can zoom/move about fractal" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="151" y="570" width="78" height="50" as="geometry" />
+        <mxCell id="grYxfkFOOMS37sdBGafB-47" value="User can zoom/move about fractal using GUI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="151" y="570" width="78" height="60" as="geometry" />
         </mxCell>
         <mxCell id="grYxfkFOOMS37sdBGafB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="grYxfkFOOMS37sdBGafB-48" target="grYxfkFOOMS37sdBGafB-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -107,7 +107,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="grYxfkFOOMS37sdBGafB-49" value="Regenerate after every frame if movement has occurred" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="142.5" y="640" width="95" height="65" as="geometry" />
+          <mxGeometry x="142.5" y="648" width="95" height="65" as="geometry" />
         </mxCell>
         <mxCell id="grYxfkFOOMS37sdBGafB-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="grYxfkFOOMS37sdBGafB-54" target="grYxfkFOOMS37sdBGafB-56" edge="1">
           <mxGeometry relative="1" as="geometry">
